@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cafe</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="very_severely_underweight">Very severely underweight. Recommended calories: 2100kcal - 2600kcal</string>
+    <string name="severely_underweight">Severely underweight. Recommended calories: 2100kcal - 2600kcal</string>
+    <string name="underweight">Underweight. Recommended calories: 2100kcal - 2600kcal</string>
+    <string name="normal">Normal. Calories intake for female: 2000kcal while Calories intake for male: 2500kcal</string>
+    <string name="overweight">Overweight. Recommended calories: Below 2500kcal</string>
+    <string name="obese_class_i">Obese Class I. Recommended calories: below 1500kcal</string>
+    <string name="obese_class_ii">Obese Class II. Recommended calories: 800kcal-1500kcal</string>
+    <string name="obese_class_iii">Obese Class III. Recommended calories: 800kcal</string>
+    <dimen name="activity_vertical_margin"></dimen>
+    <dimen name="activity_horizontal_margin"></dimen>
+</resources>
