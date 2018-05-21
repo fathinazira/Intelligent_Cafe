@@ -17,3 +17,7 @@ Library
 - classes
 - commons-logging-1.2
 - java-json
+
+How to setup. 
+Import all the files in the repository. 
+Open with android studio and run the project. 
