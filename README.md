@@ -9,3 +9,11 @@ Module of Project
 
 1.	BMI calculator: The system will calculate the BMI based on height and weight and suggest calories intake based on BMI calculation. 
 2.	Add to cart: The system will add the order to the cart and placed order into the database. The system will display the product name, subtotal of price of product order and calories intake for user interface. 
+
+Library
+- volley
+- apache-httpcomponents-httpclient
+- apache-httpcomponents-httpcore
+- classes
+- commons-logging-1.2
+- java-json
